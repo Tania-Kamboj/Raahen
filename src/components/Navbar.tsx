@@ -23,7 +23,7 @@ const Navbar = () => {
               <Compass className="w-6 h-6 text-primary-foreground" />
             </div>
             <span className="font-display text-2xl md:text-3xl tracking-wide text-foreground">
-              RideIndia
+              Raahen
             </span>
           </a>
 

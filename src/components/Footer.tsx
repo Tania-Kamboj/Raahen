@@ -55,7 +55,7 @@ const Footer = () => {
                 <Compass className="w-6 h-6 text-primary-foreground" />
               </div>
               <span className="font-display text-2xl text-primary-foreground">
-                RideIndia
+                Raahen
               </span>
             </a>
             <p className="text-primary-foreground/70 mb-6 max-w-xs">
@@ -65,9 +65,9 @@ const Footer = () => {
             
             {/* Contact */}
             <div className="space-y-3 text-sm text-primary-foreground/70">
-              <a href="mailto:hello@rideindia.in" className="flex items-center gap-2 hover:text-primary-foreground transition-colors">
+              <a href="mailto:hello@Raahen.in" className="flex items-center gap-2 hover:text-primary-foreground transition-colors">
                 <Mail className="w-4 h-4" />
-                hello@rideindia.in
+                hello@Raahen.in
               </a>
               <a href="tel:+919999999999" className="flex items-center gap-2 hover:text-primary-foreground transition-colors">
                 <Phone className="w-4 h-4" />
@@ -152,7 +152,7 @@ const Footer = () => {
         <div className="container mx-auto px-4 py-6">
           <div className="flex flex-col md:flex-row items-center justify-between gap-4">
             <p className="text-sm text-primary-foreground/60">
-              © {new Date().getFullYear()} RideIndia. All rights reserved.
+              © {new Date().getFullYear()} Raahen. All rights reserved.
             </p>
             
             {/* Social Links */}
